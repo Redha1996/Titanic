@@ -131,6 +131,30 @@ public class MedecinDbAdapter {
 
         createMedecin("0664864468","Karina","Pediatre","Chemin des mousseaux ,Vigneux Sur seine ");
         createMedecin("0762017599","Redha","Cardiologue","Alger Centre ");
+        createMedecin("0771850125","Mehdi","Ophtalmologue","Oran ");
+        createMedecin("0771680088","Youcef","Gynécologue","Setif ");
+        createMedecin("0553521197","Tahar","Orthopédiste","Annaba");
+        createMedecin("0662062187","Leila","Generaliste","Alger Centre ");
+        createMedecin("0663954126","Amine","Dentiste","Alger Centre ");
+        createMedecin("0754169853","Nesrine","Ophtalmologue","Alger Centre ");
+        createMedecin("0123569874","Sami","Cardiologue","Alger Centre ");
+        createMedecin("0123654789","Tamila","Pediatre","Alger Centre ");
+        createMedecin("0762017599","Neil","Cardiologue","Alger Centre ");
+        createMedecin("0762017599","Jenna","Ophtalmologue","Alger Centre ");
+        createMedecin("0762017599","Mohamed","Cardiologue","Alger Centre ");
+        createMedecin("0762017599","Nadia","Cardiologue","Alger Centre ");
+        createMedecin("0762017599","Fares","Ophtalmologue","Alger Centre ");
+        createMedecin("0762017599","Ilyas","Pediatre","Alger Centre ");
+        createMedecin("0762017599","Sofiane","Cardiologue","Alger Centre ");
+        createMedecin("0762017599","Anis","Generaliste","Alger Centre ");
+        createMedecin("0762017599","Rabah","Orthopédiste","Alger Centre ");
+        createMedecin("0762017599","Mohand","Generaliste","Alger Centre ");
+        createMedecin("0762017599","Salim","Cardiologue","Alger Centre ");
+        createMedecin("0762017599","Fouzi","Pneumologue","Alger Centre ");
+        createMedecin("0762017599","Said","Dentiste","Alger Centre ");
+
+
+
 
     }
 }

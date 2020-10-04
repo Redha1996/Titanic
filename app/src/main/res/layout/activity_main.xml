@@ -17,7 +17,8 @@
 
         android:layout_height="wrap_content" android:ems="10"
 
-        android:hint="@string/entrer_specialiste">
+        android:hint="@string/entrer_specialiste"
+        android:autofillHints="">
 
         <requestFocus />
 
